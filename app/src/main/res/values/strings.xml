@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Крестики-нолики</string>
-    <string name="player_won"> игрок победил в игре!</string>
+    <string name="player_won"> игрок победил!</string>
     <string name="draw">Ничья - никто не победил</string>
-    <string name="blue">Синиий</string>
+    <string name="blue">Синий</string>
     <string name="red">Красный</string>
+    <string name="game_over">Игра окончена!</string>
+    <string name="is_moving">делает ход...</string>
+    <string name="play_again">Играть ещё раз</string>
 </resources>
