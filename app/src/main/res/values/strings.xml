@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Крестики-нолики</string>
+    <string name="player_won"> игрок победил в игре!</string>
+    <string name="draw">Ничья - никто не победил</string>
+    <string name="blue">Синиий</string>
+    <string name="red">Красный</string>
+</resources>
